@@ -2,17 +2,17 @@ TExampleProject
 v6
 r1
 cCheck dependencies
-cProcessPCH /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-artzyspumujtbifkqjsryaxkogqa/ExampleProject-Prefix.pch.pch ExampleProject/ExampleProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.o /Users/jin/Documents/ExampleProject/ExampleProject/CAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.o /Users/jin/Documents/ExampleProject/ExampleProject/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.o /Users/jin/Documents/ExampleProject/ExampleProject/CViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject normal i386
-cCopyStringsFile /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/en.lproj/InfoPlist.strings ExampleProject/en.lproj/InfoPlist.strings
-cCompileStoryboard /Users/jin/Documents/ExampleProject/ExampleProject/Base.lproj/Main.storyboard
-cCompileAssetCatalog /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app /Users/jin/Documents/ExampleProject/ExampleProject/Images.xcassets
-cProcessInfoPlistFile /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/Info.plist /Users/jin/Documents/ExampleProject/ExampleProject/ExampleProject-Info.plist
-cGenerateDSYMFile /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject
-cTouch /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app
+cProcessPCH /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-gwgbofispxqajydpedpmwxjrwkyu/ExampleProject-Prefix.pch.pch ExampleProject/ExampleProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.o /Users/jin/Documents/new/medapp/ExampleProject/CAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.o /Users/jin/Documents/new/medapp/ExampleProject/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.o /Users/jin/Documents/new/medapp/ExampleProject/CViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject normal i386
+cCopyStringsFile /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/en.lproj/InfoPlist.strings ExampleProject/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app /Users/jin/Documents/new/medapp/ExampleProject/Images.xcassets
+cProcessInfoPlistFile /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/Info.plist /Users/jin/Documents/new/medapp/ExampleProject/ExampleProject-Info.plist
+cGenerateDSYMFile /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject
+cTouch /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
 c00000000534873560000000000000198
@@ -331,6 +331,113 @@ c00000000542DDC30000000000000014F
 t1412291632
 s335
 
+N/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.o
+t1413233957
+s62412
+
+N/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.o
+t1413233957
+s38976
+
+N/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/ExampleProject.LinkFileList
+c00000000543C3CD900000000000001E4
+t1413233881
+s484
+
+N/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.o
+t1413233957
+s3528
+
+N/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/assetcatalog_dependencies.txt
+t1412291796
+s429
+
+N/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/assetcatalog_generated_info.plist
+t1412291796
+s525
+
+N/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-gwgbofispxqajydpedpmwxjrwkyu/ExampleProject-Prefix.pch.pch
+t1413233957
+s115908
+
+N/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app
+t1413235374
+s306
+
+N/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM
+t1413233958
+s102
+
+N/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/Base.lproj/Main.storyboardc
+t1413235454
+s986
+
+N/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject
+t1413233957
+s17016
+
+N/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/Info.plist
+t1412291797
+s1035
+
+N/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/PkgInfo
+t1412291797
+s8
+
+N/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/en.lproj/InfoPlist.strings
+t1412291795
+s42
+
+N/Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard
+c00000000543C42FE0000000000015F3A
+t1413235454
+s89914
+
+N/Users/jin/Documents/new/medapp/ExampleProject/CAppDelegate.h
+c00000000542DDC300000000000000113
+t1412291632
+s275
+
+N/Users/jin/Documents/new/medapp/ExampleProject/CAppDelegate.m
+c00000000542DDC3000000000000007D6
+t1412291632
+s2006
+
+N/Users/jin/Documents/new/medapp/ExampleProject/CViewController.h
+c00000000542DDC3000000000000000D5
+t1412291632
+s213
+
+N/Users/jin/Documents/new/medapp/ExampleProject/CViewController.m
+c00000000542DDC3000000000000001ED
+t1412291632
+s493
+
+N/Users/jin/Documents/new/medapp/ExampleProject/ExampleProject-Info.plist
+c00000000542DDC3000000000000004CA
+t1412291632
+s1226
+
+N/Users/jin/Documents/new/medapp/ExampleProject/ExampleProject-Prefix.pch
+c00000000542DDC300000000000000158
+t1412291632
+s344
+
+N/Users/jin/Documents/new/medapp/ExampleProject/Images.xcassets
+c00000000542DDC300000000000000088
+t1412291632
+s136
+
+N/Users/jin/Documents/new/medapp/ExampleProject/en.lproj/InfoPlist.strings
+c00000000542DDC30000000000000002D
+t1412291632
+s45
+
+N/Users/jin/Documents/new/medapp/ExampleProject/main.m
+c00000000542DDC30000000000000014F
+t1412291632
+s335
+
 N/usr/lib/libSystem.B.dylib
 c000000005272C951000000000000E6D0
 t1383254353
@@ -470,9 +577,18 @@ r0
 CBuild AST from /Users/jin/Documents/ExampleProject/ExampleProject/main.m
 r0
 
+CBuild AST from /Users/jin/Documents/new/medapp/ExampleProject/CAppDelegate.m
+r0
+
+CBuild AST from /Users/jin/Documents/new/medapp/ExampleProject/CViewController.m
+r0
+
+CBuild AST from /Users/jin/Documents/new/medapp/ExampleProject/main.m
+r0
+
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese76da0c869ecb941^aef5a1c869ecb941^---0#1#1#--18"Check dependencies36"1E5AB8B9-CE15-4BE1-8238-D4D8C80B3604-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciescc0c337e7aecb941^9580347e7aecb941^---0#1#1#--18"Check dependencies36"963CE120-B903-4612-ABAB-C8D9B463C8D4-
 
 CCompileAssetCatalog /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app /Users/jin/Documents/ExampleProject/ExampleProject/Images.xcassets
 s433984595.685402
@@ -490,6 +606,9 @@ o
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CompileAssetCatalog DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app ExampleProject/Images.xcassets118"CompileAssetCatalog DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app ExampleProject/Images.xcassets8a8faf5314deb941^47c7915414deb941^-678"2014-10-02 19:16:36.464 IBCocoaTouchImageCatalogTool[1376:303] CFPreferences: user home directory at file:///Users/jin/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/LaunchImage-700-568h@2x.png/Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/Assets.car/Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@74"file:///Users/jin/Documents/ExampleProject/ExampleProject/Images.xcassets/0000000000000000^1227"CompileAssetCatalog DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app ExampleProject/Images.xcassets    cd /Users/jin/Documents/ExampleProject    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app /Users/jin/Documents/ExampleProject/ExampleProject/Images.xcassets36"E9CD6226-6BC1-4B98-B073-80D10A0E5764-
 b47B6FFF7-CC54-4793-BDFB-06B743C783AD
 
+CCompileAssetCatalog /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app /Users/jin/Documents/new/medapp/ExampleProject/Images.xcassets
+r0
+
 CCompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.o /Users/jin/Documents/ExampleProject/ExampleProject/CAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s433984595.576753
 e433984595.644726
@@ -505,6 +624,22 @@ d/Users/jin/Documents/ExampleProject/ExampleProject/CAppDelegate.m
 d/Users/jin/Documents/ExampleProject/ExampleProject/CAppDelegate.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/jin/Documents/ExampleProject/ExampleProject/CAppDelegate.m237"CompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.o ExampleProject/CAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdac6935314deb941^9d0da55314deb941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/jin/Documents/ExampleProject/ExampleProject/CAppDelegate.m0000000000000000^3966"CompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.o ExampleProject/CAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jin/Documents/ExampleProject    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jin/Documents/ExampleProject/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-generated-files.hmap -I/Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-own-target-headers.hmap -I/Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-all-target-headers.hmap -iquote /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-project-headers.hmap -I/Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/DerivedSources/i386 -I/Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/DerivedSources -F/Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-artzyspumujtbifkqjsryaxkogqa/ExampleProject-Prefix.pch -MMD -MT dependencies -MF /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.d --serialize-diagnostics /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.dia -c /Users/jin/Documents/ExampleProject/ExampleProject/CAppDelegate.m -o /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.o36"E612683C-3FE2-493E-AF2A-A0FE847E6CE2-
 b47B6FFF7-CC54-4793-BDFB-06B743C783AD
+
+CCompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.o /Users/jin/Documents/new/medapp/ExampleProject/CAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s434926757.125566
+e434926757.251380
+r1
+xCompileC
+xDerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.o
+x/Users/jin/Documents/new/medapp/ExampleProject/CAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jin/Documents/new/medapp/ExampleProject/CAppDelegate.m
+d/Users/jin/Documents/new/medapp/ExampleProject/CAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/jin/Documents/new/medapp/ExampleProject/CAppDelegate.m237"CompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.o ExampleProject/CAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler914720a574ecb941^295b40a574ecb941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/jin/Documents/new/medapp/ExampleProject/CAppDelegate.m0000000000000000^3906"CompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.o ExampleProject/CAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jin/Documents/new/medapp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jin/Documents/new/medapp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-generated-files.hmap -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-own-target-headers.hmap -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-all-target-headers.hmap -iquote /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-project-headers.hmap -I/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/DerivedSources/i386 -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/DerivedSources -F/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-gwgbofispxqajydpedpmwxjrwkyu/ExampleProject-Prefix.pch -MMD -MT dependencies -MF /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.d --serialize-diagnostics /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.dia -c /Users/jin/Documents/new/medapp/ExampleProject/CAppDelegate.m -o /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.o36"E5B56BFF-27BF-4F6A-B6D0-904D93406E68-
+b4EFC2256-706C-4D00-8546-BAA72AF6CE1C
 
 CCompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.o /Users/jin/Documents/ExampleProject/ExampleProject/CViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s433984595.577224
@@ -522,6 +657,22 @@ d/Users/jin/Documents/ExampleProject/ExampleProject/CViewController.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/jin/Documents/ExampleProject/ExampleProject/CViewController.m243"CompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.o ExampleProject/CViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3bdf935314deb941^2b30a45314deb941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/jin/Documents/ExampleProject/ExampleProject/CViewController.m0000000000000000^3984"CompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.o ExampleProject/CViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jin/Documents/ExampleProject    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jin/Documents/ExampleProject/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-generated-files.hmap -I/Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-own-target-headers.hmap -I/Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-all-target-headers.hmap -iquote /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-project-headers.hmap -I/Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/DerivedSources/i386 -I/Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/DerivedSources -F/Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-artzyspumujtbifkqjsryaxkogqa/ExampleProject-Prefix.pch -MMD -MT dependencies -MF /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.d --serialize-diagnostics /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.dia -c /Users/jin/Documents/ExampleProject/ExampleProject/CViewController.m -o /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.o36"BD7A2115-2607-46F5-A08B-6369FEAAD995-
 b47B6FFF7-CC54-4793-BDFB-06B743C783AD
 
+CCompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.o /Users/jin/Documents/new/medapp/ExampleProject/CViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s434926757.126402
+e434926757.250709
+r1
+xCompileC
+xDerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.o
+x/Users/jin/Documents/new/medapp/ExampleProject/CViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jin/Documents/new/medapp/ExampleProject/CViewController.m
+d/Users/jin/Documents/new/medapp/ExampleProject/CViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/jin/Documents/new/medapp/ExampleProject/CViewController.m243"CompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.o ExampleProject/CViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9d8220a574ecb941^ec2e40a574ecb941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/jin/Documents/new/medapp/ExampleProject/CViewController.m0000000000000000^3924"CompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.o ExampleProject/CViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jin/Documents/new/medapp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jin/Documents/new/medapp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-generated-files.hmap -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-own-target-headers.hmap -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-all-target-headers.hmap -iquote /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-project-headers.hmap -I/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/DerivedSources/i386 -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/DerivedSources -F/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-gwgbofispxqajydpedpmwxjrwkyu/ExampleProject-Prefix.pch -MMD -MT dependencies -MF /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.d --serialize-diagnostics /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.dia -c /Users/jin/Documents/new/medapp/ExampleProject/CViewController.m -o /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.o36"389E2C56-2DD4-483E-B1D6-1C0B1EF3A77B-
+b4EFC2256-706C-4D00-8546-BAA72AF6CE1C
+
 CCompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.o /Users/jin/Documents/ExampleProject/ExampleProject/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s433984595.576970
 e433984595.612952
@@ -538,6 +689,22 @@ d/Users/jin/Documents/ExampleProject/ExampleProject/CAppDelegate.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/jin/Documents/ExampleProject/ExampleProject/main.m221"CompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.o ExampleProject/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerccd1935314deb941^03eb9c5314deb941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/jin/Documents/ExampleProject/ExampleProject/main.m0000000000000000^3918"CompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.o ExampleProject/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jin/Documents/ExampleProject    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jin/Documents/ExampleProject/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-generated-files.hmap -I/Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-own-target-headers.hmap -I/Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-all-target-headers.hmap -iquote /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-project-headers.hmap -I/Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/DerivedSources/i386 -I/Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/DerivedSources -F/Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-artzyspumujtbifkqjsryaxkogqa/ExampleProject-Prefix.pch -MMD -MT dependencies -MF /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.dia -c /Users/jin/Documents/ExampleProject/ExampleProject/main.m -o /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.o36"7FEA6DBF-1B5E-437C-BF53-9FAAB18F0672-
 b47B6FFF7-CC54-4793-BDFB-06B743C783AD
 
+CCompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.o /Users/jin/Documents/new/medapp/ExampleProject/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s434926757.125960
+e434926757.247994
+r1
+xCompileC
+xDerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.o
+x/Users/jin/Documents/new/medapp/ExampleProject/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jin/Documents/new/medapp/ExampleProject/main.m
+d/Users/jin/Documents/new/medapp/ExampleProject/CAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/jin/Documents/new/medapp/ExampleProject/main.m221"CompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.o ExampleProject/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere65a20a574ecb941^417d3fa574ecb941^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/jin/Documents/new/medapp/ExampleProject/main.m0000000000000000^3858"CompileC DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.o ExampleProject/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jin/Documents/new/medapp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jin/Documents/new/medapp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-generated-files.hmap -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-own-target-headers.hmap -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-all-target-headers.hmap -iquote /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-project-headers.hmap -I/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/DerivedSources/i386 -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/DerivedSources -F/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-gwgbofispxqajydpedpmwxjrwkyu/ExampleProject-Prefix.pch -MMD -MT dependencies -MF /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.dia -c /Users/jin/Documents/new/medapp/ExampleProject/main.m -o /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.o36"B1F296B9-C50A-40B7-95DA-F0E0BD53749D-
+b4EFC2256-706C-4D00-8546-BAA72AF6CE1C
+
 CCompileStoryboard /Users/jin/Documents/ExampleProject/ExampleProject/Base.lproj/Main.storyboard
 s434923976.629126
 e434923978.122954
@@ -553,6 +720,22 @@ o/Users/jin/Documents/ExampleProject/ExampleProject/Base.lproj/Main.storyboard:l
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"CompileStoryboard ExampleProject/Base.lproj/Main.storyboard59"CompileStoryboard ExampleProject/Base.lproj/Main.storyboard6d20a1c869ecb941^927a1fca69ecb941^-942"2014-10-13 16:12:57.292 Interface Builder Cocoa Touch Tool[2055:303] CFPreferences: user home directory at file:///Users/jin/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-10-13 16:12:57.739 Interface Builder Cocoa Touch Tool[2057:303] CFPreferences: user home directory at file:///Users/jin/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.ibtool.document.warnings *//Users/jin/Documents/ExampleProject/ExampleProject/Base.lproj/Main.storyboard:DIX-yS-HbX: warning: Prototype table cells must have reuse identifiers/Users/jin/Documents/ExampleProject/ExampleProject/Base.lproj/Main.storyboard:6F5-qi-Uy6: warning: Prototype table cells must have reuse identifiers/Users/jin/Documents/ExampleProject/ExampleProject/Base.lproj/Main.storyboard:lQs-sk-V35: warning: Prototype table cells must have reuse identifiers3(21%IDEActivityLogMessage2@49"Prototype table cells must have reuse identifiers-434923978#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@84"file:///Users/jin/Documents/ExampleProject/ExampleProject/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-434923978#18446744073709551615#0#-1#-3@84"file:///Users/jin/Documents/ExampleProject/ExampleProject/Base.lproj/Main.storyboard0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-434923978#18446744073709551615#0#-1#-3@84"file:///Users/jin/Documents/ExampleProject/ExampleProject/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#1#-19%DVTDocumentLocation4@84"file:///Users/jin/Documents/ExampleProject/ExampleProject/Base.lproj/Main.storyboard0000000000000000^863"CompileStoryboard ExampleProject/Base.lproj/Main.storyboard    cd /Users/jin/Documents/ExampleProject    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/Base.lproj/Main.storyboardc /Users/jin/Documents/ExampleProject/ExampleProject/Base.lproj/Main.storyboard36"CCA33362-1048-4F2B-8AA2-FC8001D1A000-
 b8EE72418-ED3F-4EA6-9242-83435C9F6D33
 
+CCompileStoryboard /Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard
+s434928254.201986
+e434928254.974442
+r1
+xCompileStoryboard
+x/Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard
+o/* com.apple.ibtool.document.warnings */
+o/Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard:4qv-2v-GnY: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard:2Ia-IR-B2A: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard:YZU-zg-kr6: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard:6F5-qi-Uy6: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard:lQs-sk-V35: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard:DIX-yS-HbX: warning: Prototype table cells must have reuse identifiers [9]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"CompileStoryboard ExampleProject/Base.lproj/Main.storyboard59"CompileStoryboard ExampleProject/Base.lproj/Main.storyboard71c7337e7aecb941^d175f97e7aecb941^-911"/* com.apple.ibtool.document.warnings *//Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard:4qv-2v-GnY: warning: Prototype table cells must have reuse identifiers/Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard:2Ia-IR-B2A: warning: Prototype table cells must have reuse identifiers/Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard:YZU-zg-kr6: warning: Prototype table cells must have reuse identifiers/Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard:6F5-qi-Uy6: warning: Prototype table cells must have reuse identifiers/Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard:lQs-sk-V35: warning: Prototype table cells must have reuse identifiers/Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard:DIX-yS-HbX: warning: Prototype table cells must have reuse identifiers6(21%IDEActivityLogMessage2@49"Prototype table cells must have reuse identifiers-434928254#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@80"file:///Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-434928254#18446744073709551615#0#-1#-3@80"file:///Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-434928254#18446744073709551615#0#-1#-3@80"file:///Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-434928254#18446744073709551615#0#-1#-3@80"file:///Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-434928254#18446744073709551615#0#-1#-3@80"file:///Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-434928254#18446744073709551615#0#-1#-3@80"file:///Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#1#-19%DVTDocumentLocation4@80"file:///Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard0000000000000000^851"CompileStoryboard ExampleProject/Base.lproj/Main.storyboard    cd /Users/jin/Documents/new/medapp    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/Base.lproj/Main.storyboardc /Users/jin/Documents/new/medapp/ExampleProject/Base.lproj/Main.storyboard36"9176CE85-B286-4AD9-8C4F-9AAE40F4520C-
+b340F8E0A-3EB2-4639-B68C-5A74A391C5B0
+
 CCopyStringsFile /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/en.lproj/InfoPlist.strings ExampleProject/en.lproj/InfoPlist.strings
 s433984595.684441
 e433984595.685542
@@ -563,6 +746,9 @@ xExampleProject/en.lproj/InfoPlist.strings
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy ExampleProject/en.lproj/InfoPlist.strings152"CopyStringsFile DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/en.lproj/InfoPlist.strings ExampleProject/en.lproj/InfoPlist.stringsb344af5314deb941^9984af5314deb941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/jin/Documents/ExampleProject/ExampleProject/en.lproj/InfoPlist.strings0000000000000000^639"CopyStringsFile DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/en.lproj/InfoPlist.strings ExampleProject/en.lproj/InfoPlist.strings    cd /Users/jin/Documents/ExampleProject    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/en.lproj -- ExampleProject/en.lproj/InfoPlist.strings36"38E5EBBF-4405-4F4D-BE1F-4F0C5F144F79-
 b47B6FFF7-CC54-4793-BDFB-06B743C783AD
 
+CCopyStringsFile /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/en.lproj/InfoPlist.strings ExampleProject/en.lproj/InfoPlist.strings
+r0
+
 CGenerateDSYMFile /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject
 s433984597.077729
 e433984597.091687
@@ -572,6 +758,16 @@ x/Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimu
 x/Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Generate /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM172"GenerateDSYMFile DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject91f2135514deb941^5375175514deb941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM0034f419dfffdf42^742"GenerateDSYMFile DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject    cd /Users/jin/Documents/ExampleProject    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject -o /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM36"E04704F2-2661-4BFE-92FA-F2CC48927B30-
 b47B6FFF7-CC54-4793-BDFB-06B743C783AD
+
+CGenerateDSYMFile /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject
+s434926758.349493
+e434926758.385205
+r1
+xGenerateDSYMFile
+x/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM
+x/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Generate /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM172"GenerateDSYMFile DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProjecta18459a674ecb941^349c62a674ecb941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM/0000000000000000^730"GenerateDSYMFile DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject    cd /Users/jin/Documents/new/medapp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject -o /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app.dSYM36"F79B0291-F2A4-4BA7-8433-83BC4FD5B191-
+b4EFC2256-706C-4D00-8546-BAA72AF6CE1C
 
 CLd /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject normal i386
 s433984595.645488
@@ -652,6 +848,85 @@ d/usr/lib/system/libunwind.dylib
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject97"Ld DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject normal i3867b4fa55314deb941^f303af5314deb941^---0#0#1#--1513"Ld DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject normal i386    cd /Users/jin/Documents/ExampleProject    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator -F/Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator -filelist /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/ExampleProject.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/ExampleProject_dependency_info.dat -o /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject36"86B3629B-C85B-4F2D-975B-CB1B6620B047-
 b47B6FFF7-CC54-4793-BDFB-06B743C783AD
 
+CLd /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject normal i386
+s434926757.252014
+e434926757.368917
+r1
+xLd
+x/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject
+xnormal
+xi386
+d/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/ExampleProject.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CAppDelegate.o
+d/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/main.o
+d/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/CViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Link /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject97"Ld DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject normal i386109340a574ecb941^de715ea574ecb941^---0#0#1#--1489"Ld DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject normal i386    cd /Users/jin/Documents/new/medapp    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator -F/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator -filelist /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/ExampleProject.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/Objects-normal/i386/ExampleProject_dependency_info.dat -o /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/ExampleProject36"D88C4990-5C60-4370-9EE2-92F703E4C522-
+b4EFC2256-706C-4D00-8546-BAA72AF6CE1C
+
 CProcessInfoPlistFile /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/Info.plist /Users/jin/Documents/ExampleProject/ExampleProject/ExampleProject-Info.plist
 s433984597.075699
 e433984597.077246
@@ -661,6 +936,9 @@ x/Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimu
 x/Users/jin/Documents/ExampleProject/ExampleProject/ExampleProject-Info.plist
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Process /Users/jin/Documents/ExampleProject/ExampleProject/ExampleProject-Info.plist140"ProcessInfoPlistFile DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/Info.plist ExampleProject/ExampleProject-Info.plist016d135514deb941^08c8135514deb941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/jin/Documents/ExampleProject/ExampleProject/ExampleProject-Info.plist0000000000000000^978"ProcessInfoPlistFile DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/Info.plist ExampleProject/ExampleProject-Info.plist    cd /Users/jin/Documents/ExampleProject    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/jin/Documents/ExampleProject/ExampleProject/ExampleProject-Info.plist -genpkginfo /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/assetcatalog_generated_info.plist -o /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/Info.plist36"B474A266-04DA-4E5F-936E-4F065EFC69D1-
 b47B6FFF7-CC54-4793-BDFB-06B743C783AD
+
+CProcessInfoPlistFile /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app/Info.plist /Users/jin/Documents/new/medapp/ExampleProject/ExampleProject-Info.plist
+r0
 
 CProcessPCH /Users/jin/Documents/ExampleProject/DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-artzyspumujtbifkqjsryaxkogqa/ExampleProject-Prefix.pch.pch ExampleProject/ExampleProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s433984594.753684
@@ -680,6 +958,24 @@ b47B6FFF7-CC54-4793-BDFB-06B743C783AD
 CProcessPCH /Users/jin/Documents/ExampleProject/DerivedData/ExampleProject/Index/PrecompiledHeaders/ExampleProject-Prefix-dvbaxkfwiegwyrbrgtqvmwxtbqfu_ast/ExampleProject-Prefix.pch.pch ExampleProject/ExampleProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
 r0
 
+CProcessPCH /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-gwgbofispxqajydpedpmwxjrwkyu/ExampleProject-Prefix.pch.pch ExampleProject/ExampleProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s434926756.234177
+e434926757.124747
+r1
+xProcessPCH
+x/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-gwgbofispxqajydpedpmwxjrwkyu/ExampleProject-Prefix.pch.pch
+xExampleProject/ExampleProject-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jin/Documents/new/medapp/ExampleProject/ExampleProject-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile ExampleProject/ExampleProject-Prefix.pch251"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-gwgbofispxqajydpedpmwxjrwkyu/ExampleProject-Prefix.pch.pch ExampleProject/ExampleProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf20a3ca474ecb941^d0ef1fa574ecb941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/jin/Documents/new/medapp/ExampleProject/ExampleProject-Prefix.pch0000000000000000^3768"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-gwgbofispxqajydpedpmwxjrwkyu/ExampleProject-Prefix.pch.pch ExampleProject/ExampleProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jin/Documents/new/medapp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jin/Documents/new/medapp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-generated-files.hmap -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-own-target-headers.hmap -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-all-target-headers.hmap -iquote /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/ExampleProject-project-headers.hmap -I/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/DerivedSources/i386 -I/Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/ExampleProject.build/Debug-iphonesimulator/ExampleProject.build/DerivedSources -F/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-gwgbofispxqajydpedpmwxjrwkyu/ExampleProject-Prefix.pch.dia -MMD -MT dependencies -MF /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-gwgbofispxqajydpedpmwxjrwkyu/ExampleProject-Prefix.pch.d -c /Users/jin/Documents/new/medapp/ExampleProject/ExampleProject-Prefix.pch -o /Users/jin/Documents/new/medapp/DerivedData/Build/Intermediates/PrecompiledHeaders/ExampleProject-Prefix-gwgbofispxqajydpedpmwxjrwkyu/ExampleProject-Prefix.pch.pch36"8BDB16B8-8BB5-48DF-9AE8-BCB2DE983B10-
+b4EFC2256-706C-4D00-8546-BAA72AF6CE1C
+
+CProcessPCH /Users/jin/Documents/new/medapp/DerivedData/ExampleProject/Index/PrecompiledHeaders/ExampleProject-Prefix-apiuliimxqbqpqhkvugormsygoah_ast/ExampleProject-Prefix.pch.pch ExampleProject/ExampleProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
 CTouch /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app
 s434923978.123707
 e434923978.127579
@@ -688,4 +984,13 @@ xTouch
 x/Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Touch /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app73"Touch DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.appa2b81fca69ecb941^9ba920ca69ecb941^---0#0#1#--438"Touch DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app    cd /Users/jin/Documents/ExampleProject    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jin/Documents/ExampleProject/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app36"792EFA4D-2DC8-43F1-BA10-164549581CAB-
 b8EE72418-ED3F-4EA6-9242-83435C9F6D33
+
+CTouch /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app
+s434928254.975350
+e434928254.979035
+r1
+xTouch
+x/Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Touch /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app73"Touch DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app17bbf97e7aecb941^e4a2fa7e7aecb941^---0#0#1#--430"Touch DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app    cd /Users/jin/Documents/new/medapp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jin/Documents/new/medapp/DerivedData/Build/Products/Debug-iphonesimulator/ExampleProject.app36"86978187-EB7C-4898-851E-C9496A53D4AC-
+b340F8E0A-3EB2-4639-B68C-5A74A391C5B0
 

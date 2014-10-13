@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/jin/Documents/ExampleProject/ExampleProject/CAppDelegate.m \
-  /Users/jin/Documents/ExampleProject/ExampleProject/CAppDelegate.h
+  /Users/jin/Documents/new/medapp/ExampleProject/CAppDelegate.m \
+  /Users/jin/Documents/new/medapp/ExampleProject/CAppDelegate.h
